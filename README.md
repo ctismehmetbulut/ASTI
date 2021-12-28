@@ -14,4 +14,4 @@ AŞTİ Information Systems holds the information about companies and their accou
 
 ## UML Class Diagram
 
-![This is an image](https://github.com/ctismehmetbulut/TermProject2/blob/main/UML-Class-Diagram.png)
+![This is an image](https://github.com/ctismehmetbulut/TermProject/blob/main/UML-Class-Diagram.png)
