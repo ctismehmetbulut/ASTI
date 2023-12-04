@@ -6,11 +6,7 @@
 ### Description: 
 AŞTİ Information Systems holds the information about companies and their accounting information.
 
-**@ctismehmetbulut**
-
-**@NurjemalS**
-
-**@RiverYaka**
+**@ctismehmetbulut @NurjemalS @RiverYaka**
 
 ## UML Class Diagram
 
