@@ -1,11 +1,6 @@
 # CTIS 221 TermProject
-
-## Ankara Intercity Terminal Application
-
-### Title: AŞTİ
-### Description: 
+## Ankara Intercity Terminal Application (AŞTİ)
 AŞTİ Information Systems holds the information about companies and their accounting information.
-
 **@ctismehmetbulut @NurjemalS @RiverYaka**
 
 ## UML Class Diagram
